@@ -10,3 +10,10 @@ Active Urls are:
 /login - User login
 /register - User registration
 /admin - Admin Panel Login
+
+Unzip the files prior to usage.
+
+Requires:
+Djongo
+Django
+Python
