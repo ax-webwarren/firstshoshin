@@ -16,6 +16,7 @@ Active Urls are:
 
 /admin - Admin Panel Login
 
+Screenshots also included for reference.
 
 Unzip the files prior to usage.
 
